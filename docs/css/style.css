@@ -66,11 +66,11 @@ a {
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
   transition: all 0.35s;
-  color: #f39c12;
+  color: #005EFF;
 }
 a:hover,
 a:focus {
-  color: #f39c12;
+  color: #005EFF;
   text-decoration:none;
 }
 hr {
@@ -108,14 +108,14 @@ p {
 
 .btn-box {
   color: white;
-  border: 1px solid #f39c12;
-  background:#f39c12;
+  border: 1px solid #005EFF;
+  background:#005EFF;
 }
 .btn-box:hover,
 .btn-box:focus,
 .btn-box:active,
 .btn-box.active {
-  color: #f39c12;
+  color: #005EFF;
   background-color: #fff;
   border-color: #fff;
 }
@@ -197,8 +197,8 @@ textarea{
     font-size: 12px;
     color: #000000;
     padding: 8px 10px;
-    background: #f39c12;
-    border-color: #f39c12;
+    background: #005EFF;
+    border-color: #005EFF;
 }
 .navbar-default .nav > li > a {
   text-transform: uppercase;
@@ -209,17 +209,17 @@ textarea{
 }
 .navbar-default .nav > li > a:hover,
 .navbar-default .nav > li > a:focus {
-  color: #f39c12;
+  color: #005EFF;
 }
 .navbar-default .nav > li.active > a,
 .navbar-default .nav > li.active > a:focus {
   color: #fff!important;
-    background-color: #f39c12;
+    background-color: #005EFF;
     border-radius:5px;
 }
 .navbar-default .nav > li.active > a:hover,
 .navbar-default .nav > li.active > a:focus:hover {
-  background-color: #f39c12;
+  background-color: #005EFF;
 }
  
 .navbar-default .navbar-header .navbar-brand:hover,
@@ -277,7 +277,7 @@ header .bwt-header-content .bwt-header-content-inner h1 {
   font-size:80px;
   font-weight: 900;
   letter-spacing:0px;
-  color: #f39c12;
+  color: #005EFF;
 }
 header .bwt-header-content .bwt-header-content-inner h2 {
   margin-top: 0;
@@ -296,7 +296,7 @@ header .bwt-header-content .bwt-header-content-inner h2 {
     border: 1px solid #fff;
     border-radius: 50%;
     font-size: 15px;
-    background: #f39c12;
+    background: #005EFF;
 }
 @-webkit-keyframes bounce {
 	0%, 20%, 60%, 100%  { -ms-transform: translateY(0); }
@@ -316,7 +316,7 @@ section .bwt-section-title {
   font-size: 38px;
   margin:0 0;
   font-weight:900;
-  color: #f39c12;
+  color: #005EFF;
 }
 section h3{
   font-size:24px;
@@ -335,7 +335,7 @@ section.bwt-about:before {
 	display:block;
 }
 section.bwt-about blockquote {
-      background: #f39c12;
+      background: #005EFF;
     border-left: 0px solid #ccc;
     padding: 20px;
     quotes: "\201C""\201D""\2018""\2019";
@@ -356,25 +356,25 @@ section.bwt-about blockquote:before {
 /* BUY RATE * -------------------------- */
 
 section.bwt-buyrate {
-  background: #f39c12  url(../images/trade-bg.png);
+  background: #005EFF  url(../images/trade-bg.png);
 }
 section.bwt-buyrate .bwt-section-title{
   color: #fff;
 }
 section.bwt-buyrate .bdr{ border:2px solid #fff; background:#fff; border-radius:5px; padding:30px 20px; margin:10px 0 0 0; }
-section.bwt-buyrate h2{ font-size:32px; font-weight:600; color:#f39c12; text-transform:uppercase; letter-spacing: 1px;border-bottom: 1px dashed #f39c12;padding-bottom: 15px;}
+section.bwt-buyrate h2{ font-size:32px; font-weight:600; color:#005EFF; text-transform:uppercase; letter-spacing: 1px;border-bottom: 1px dashed #005EFF;padding-bottom: 15px;}
 section.bwt-buyrate .image{ background:#fff; width:60%; margin:10px auto; padding: 10px 20px; border-radius:5px;}
 section.bwt-buyrate p{ font-size:16px; font-weight:400; color:#555; line-height: 30px;margin: 10px 0 0 0; text-align: left !important;}
-section.bwt-buyrate a{ display:inline-block; background:#f39c12; color:#fff; padding:13px 20px; margin:25px 0 0 0; text-transform:uppercase; font-weight:300; border-radius:3px; height:50px; font-size:16px; letter-spacing:1px; }
+section.bwt-buyrate a{ display:inline-block; background:#005EFF; color:#fff; padding:13px 20px; margin:25px 0 0 0; text-transform:uppercase; font-weight:300; border-radius:3px; height:50px; font-size:16px; letter-spacing:1px; }
 section.bwt-buyrate a:hover{ background:#333; color:#fff; }
 
 /* SELL RATE * -------------------------- */
 
 section.bwt-sellrate .bdr{ border:2px solid #eee; border-radius:5px; padding:30px 20px; margin:10px 0 0 0; }
-section.bwt-sellrate h2{ font-size:32px; font-weight:600; color:#f39c12; text-transform:uppercase; letter-spacing: 1px;border-bottom: 1px dashed #f39c12;padding-bottom: 15px;}
+section.bwt-sellrate h2{ font-size:32px; font-weight:600; color:#005EFF; text-transform:uppercase; letter-spacing: 1px;border-bottom: 1px dashed #005EFF;padding-bottom: 15px;}
 section.bwt-sellrate .image{ background:#fff; width:60%; margin:10px auto; padding: 10px 20px;; border-radius:5px;}
 section.bwt-sellrate p{ font-size:16px; font-weight:400; color:#555; line-height: 30px;margin: 10px 0 0 0;}
-section.bwt-sellrate a{ display:inline-block; background:#f39c12; color:#fff; padding:13px 20px; margin:25px 0 0 0; text-transform:uppercase; font-weight:300; border-radius:3px; height:50px; font-size:16px; letter-spacing:1px; }
+section.bwt-sellrate a{ display:inline-block; background:#005EFF; color:#fff; padding:13px 20px; margin:25px 0 0 0; text-transform:uppercase; font-weight:300; border-radius:3px; height:50px; font-size:16px; letter-spacing:1px; }
 section.bwt-sellrate a:hover{ background:#333; color:#fff; }
 
 /* CONTACT * -------------------------- */
@@ -382,9 +382,9 @@ section.bwt-sellrate a:hover{ background:#333; color:#fff; }
 section.bwt-contact{ width:100%; background:#333; }
 section.bwt-contact input[type="text"], section.bwt-contact input[type="email"], section.bwt-contact textarea{ width:100%; padding:10px; background:transparent; color:#ccc; font-weight:300; font-size:14px; border:none;  border:1px solid#d5d6d7; }
 section.bwt-contact textarea:focus, section.bwt-contact input:focus{ outline:none; }
-section.bwt-contact input[type="submit"]{ background:#f39c12; color:#fff; padding:13px 20px; border:none; text-transform:uppercase; font-weight:300; border-radius:3px; height:50px; font-size:16px; letter-spacing:1px; margin:0 0 0 25px; }
+section.bwt-contact input[type="submit"]{ background:#005EFF; color:#fff; padding:13px 20px; border:none; text-transform:uppercase; font-weight:300; border-radius:3px; height:50px; font-size:16px; letter-spacing:1px; margin:0 0 0 25px; }
 section.bwt-contact .terms{ color:#fff; font-weight:300; font-size:13px; }
-section.bwt-contact .terms a{ color:#f39c12; text-decoration:underline; }
+section.bwt-contact .terms a{ color:#005EFF; text-decoration:underline; }
 
 /* FOOTER * -------------------------- */
 
@@ -396,7 +396,7 @@ footer.bwt-footer {
 }
 footer.bwt-footer .icon, footer.bwt-footer .icon-text { float:left;}
 footer.bwt-footer .icon-text {width: -moz-calc(100% - 100px); width: -webkit-calc(100% - 100px); width: calc(100% - 100px);}
-footer.bwt-footer .icon {width: 70px;height: 70px;line-height: 70px;font-size: 36px;background:#f39c12;border-radius:50%;margin-right:20px;text-align:center;}
+footer.bwt-footer .icon {width: 70px;height: 70px;line-height: 70px;font-size: 36px;background:#005EFF;border-radius:50%;margin-right:20px;text-align:center;}
 footer.bwt-footer .icon i{ color:#fff;}
 footer.bwt-footer h3{font-size:20px; font-weight:400; position:relative; z-index:1; margin:0 0 5px 0; color:#fff; text-transform:uppercase; }
 footer.bwt-footer p{color:#fff; font-weight:300; font-size:14px; margin:5px 0 0 0; line-height: 22px;}
