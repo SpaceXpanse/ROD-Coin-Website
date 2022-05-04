@@ -372,16 +372,16 @@ The other half will be used to support the first year development of the ecosyst
 <!-- <div class="image"><img src="images/btc.png" class="img-responsive" alt=""></div> -->
 <p>&nbsp;
 </p>
-<a href="#">Go!</a>
+<a href="https://github.com/SpaceXpanse/spacexpanse-core/releases/download/v0.12.1.9-beta/SpaceXpanseCore-qt.0.12.1.9.x64.windows.zip">Go!</a>
 </div>
 </div>
 <div class="col-md-6">
 <div class="bdr">
-<h2>Win64 Bin</h2>
+<h2>Sentinel Win64</h2>
 <!-- <div class="image"><img src="images/btc.jpg" class="img-responsive" alt=""></div> -->
 <p>&nbsp;
 </p>
-<a href="#">Go!</a>
+<a href="https://github.com/SpaceXpanse/sentinel-win64/releases/download/1.0/sentinel-win64.zip">Go!</a>
 </div>
 </div>
 </div>
@@ -392,7 +392,7 @@ The other half will be used to support the first year development of the ecosyst
 <!-- <div class="image"><img src="images/btc.jpg" class="img-responsive" alt=""></div> -->
 <p>&nbsp;
 </p>
-<a href="#">Go!</a>
+<a href="https://github.com/SpaceXpanse/spacexpanse-core/releases/download/v0.12.1.9-beta/SpaceXpanseCore-qt.0.12.1.9.x64.linux.tar.gz">Go!</a>
 </div>
 </div>
 <div class="col-md-6">
@@ -401,7 +401,27 @@ The other half will be used to support the first year development of the ecosyst
 <!-- <div class="image"><img src="images/btc.png" class="img-responsive" alt=""></div> -->
 <p>&nbsp;
 </p>
-<a href="#">Go!</a>
+<a href="https://github.com/SpaceXpanse/spacexpanse-core/releases/download/v0.12.1.9-beta/SpaceXpanseCore-bin.0.12.1.9.x64.linux.tar.gz">Go!</a>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-6">
+<div class="bdr">
+<h2>Linux Masternode Install</h2>
+<!-- <div class="image"><img src="images/btc.png" class="img-responsive" alt=""></div> -->
+<p>&nbsp;
+</p>
+<a href="https://github.com/SpaceXpanse/masternode-install">Go!</a>
+</div>
+</div>
+<div class="col-md-6">
+<div class="bdr">
+<h2>Win Masternode Install</h2>
+<!-- <div class="image"><img src="images/btc.jpg" class="img-responsive" alt=""></div> -->
+<p>&nbsp;
+</p>
+<a href="https://github.com/SpaceXpanse/sentinel-win64/releases">Go!</a>
 </div>
 </div>
 </div>
@@ -412,7 +432,7 @@ The other half will be used to support the first year development of the ecosyst
 <!-- <div class="image"><img src="images/btc.png" class="img-responsive" alt=""></div> -->
 <p>&nbsp;
 </p>
-<a href="#e">Go!</a>
+<a href="https://miningpoolstats.stream/spacexpanse">Go!</a>
 <!-- <a href="https://poolexplorer.com/coin/6058">Go!</a> -->
 </div>
 </div>
@@ -420,9 +440,9 @@ The other half will be used to support the first year development of the ecosyst
 <div class="bdr">
 <h2>Exchanges</h2>
 <!-- <div class="image"><img src="images/btc.jpg" class="img-responsive" alt=""></div> -->
-<p><img src="#" title="" style="background-color:#1A354C;margin:-5px 0 -5px 0;padding:0 3px;padding:0 3px">
+<p><img src="https://www.finexbox.com/Public/Home/images/logo_5.png" title="Finexbox" style="background-color:#1A354C;margin:-5px 0 -5px 0;padding:0 3px;padding:0 3px">
 </p>
-<a href="#">Go!</a>
+<a href="https://www.finexbox.com/market/pair/ROD-BTC.html">Go!</a>
 </div>
 </div>
 </div>
@@ -433,7 +453,7 @@ The other half will be used to support the first year development of the ecosyst
 <!-- <div class="image"><img src="images/btc.png" class="img-responsive" alt=""></div> -->
 <p>&nbsp;
 </p>
-<a href="http://explorer1.rod.spacexpanse.org:3002/">Go!</a>
+<a href="http://explorer.rod.cryptocrowdclub.com:3001/">Go!</a>
 </div>
 </div>
 <div class="col-md-6">
@@ -442,7 +462,7 @@ The other half will be used to support the first year development of the ecosyst
 <!-- <div class="image"><img src="images/btc.jpg" class="img-responsive" alt=""></div> -->
 <p>&nbsp;
 </p>
-<a href="http://explorer1.rod.spacexpanse.org:3002/peers">Go!</a>
+<a href="http://nodes.rod.cryptocrowdclub.com">Go!</a>
 </div>
 </div>
 </div>
@@ -453,7 +473,7 @@ The other half will be used to support the first year development of the ecosyst
 <!-- <div class="image"><img src="images/btc.png" class="img-responsive" alt=""></div> -->
 <p>&nbsp;
 </p>
-<a href="#">Go!</a>
+<a href="https://github.com/SpaceXpanse/Documentation/blob/master/SpaceXpanse-ROD-Litepaper.pdf">Go!</a>
 </div>
 </div>
 <div class="col-md-6">
@@ -462,7 +482,7 @@ The other half will be used to support the first year development of the ecosyst
 <!-- <div class="image"><img src="images/btc.png" class="img-responsive" alt=""></div> -->
 <p><strong>CoinGecko</strong>
 </p>
-<a href="#">Go!</a>
+<a href="https://www.coingecko.com/en/coins/spacexpanse">Go!</a>
 </div>
 </div>
 </div>
@@ -473,15 +493,15 @@ The other half will be used to support the first year development of the ecosyst
 <!-- <div class="image"><img src="images/btc.png" class="img-responsive" alt=""></div> -->
 <p>&nbsp;
 </p>
-<a href="#">Go!</a>
+<a href="https://cointomine.today/calculator/coin/ROD">Go!</a>
 </div>
 </div>
 <div class="col-md-6">
 <div class="bdr">
-<h2></h2>
-<p><img src="#" title="" style="height:60px;margin:-5px 0 -25px 0;padding:0 3px" alt="">
+<h2>Masternode Cap</h2>
+<p><img src="images/logo_masternodecap_full.png" title="Masternode Cap" style="height:60px;margin:-5px 0 -25px 0;padding:0 3px" alt="">
 </p>
-<a href="#">Go!</a>
+<a href="https://masternodecap.com/coins/ROD">Go!</a>
 </div>
 </div>
 </div>
@@ -492,7 +512,7 @@ The other half will be used to support the first year development of the ecosyst
 <!-- <div class="image"><img src="images/btc.png" class="img-responsive" alt=""></div> -->
 <p>&nbsp;
 </p>
-<a href="https://bitcointalk.org/index.php?topic=">Go!</a>
+<a href="https://bitcointalk.org/index.php?topic=5105389.0">Go!</a>
 </div>
 </div>
 <div class="col-md-6">
@@ -512,7 +532,7 @@ The other half will be used to support the first year development of the ecosyst
 <!-- <div class="image"><img src="images/btc.jpg" class="img-responsive" alt=""></div> -->
 <p>&nbsp;
 </p>
-<a href="https://discord.gg/uPJdncgrBe">Go!</a>
+<a href="https://discord.gg/pyCqbpB">Go!</a>
 </div>
 </div>
 <div class="col-md-6">
@@ -521,7 +541,7 @@ The other half will be used to support the first year development of the ecosyst
 <!-- <div class="image"><img src="images/btc.jpg" class="img-responsive" alt=""></div> -->
 <p>&nbsp;
 </p>
-<a href="https://twitter.com/spacexpanse">Go!</a>
+<a href="https://twitter.com/cryptocrowdclub">Go!</a>
 </div>
 </div>
 </div>
@@ -623,7 +643,7 @@ The other half will be used to support the first year development of the ecosyst
 <div class="icon"><i class="fa fa-envelope-o"></i></div>
 <div class="icon-text">
 <h3>E-Mail Address</h3>
-<p>info@spacexpanse.orgm<br />
+<p>send@mail.cryptocrowdclub.com<br />
 
 </p>
 </div>
