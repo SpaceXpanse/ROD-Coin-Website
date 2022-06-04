@@ -1,2 +1,2 @@
-# ROD coin detailed info
+# SpaceXpanse ROD Official Website
 [https://rod.spacexpanse.org/](https://rod.spacexpanse.org/ "https://rod.spacexpanse.org/")
