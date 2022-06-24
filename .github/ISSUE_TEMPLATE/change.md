@@ -1,6 +1,6 @@
 ---
-name: Change template
-about: Describe this issue template's purpose here.
+name: Change
+about: Submit the requested change here.
 title: ''
 labels: ''
 assignees: ''
